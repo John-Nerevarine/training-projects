@@ -1,0 +1,2 @@
+TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+CHESS_BOARD_ID = 'AgACAgIAAxkBAAIHjmIeN4h3MfFp57Nnf239Yub4hZ2jAAIlvDEbcRLwSLlwG-vsfDU0AQADAgADcwADIwQ'
